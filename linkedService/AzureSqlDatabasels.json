@@ -1,0 +1,14 @@
+{
+	"name": "AzureSqlDatabasels",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "raj0101.database.windows.net",
+			"database": "dataplat_core_prod",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}

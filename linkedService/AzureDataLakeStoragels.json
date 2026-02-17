@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStoragels",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://datalakeprodci01.dfs.core.windows.net/"
+		}
+	}
+}

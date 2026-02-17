@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataplat-prod-ci",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55f523e2-c98f-4cc7-ac46-800011fecdbd",
+		"tenantId": "e4abb055-b7a7-4e8c-9de3-c6bd416f11be"
+	}
+}

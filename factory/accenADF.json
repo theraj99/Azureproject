@@ -1,0 +1,15 @@
+{
+	"name": "accenADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1ee859a-241e-4b30-8694-c94a1f39165f",
+		"tenantId": "e4abb055-b7a7-4e8c-9de3-c6bd416f11be"
+	}
+}

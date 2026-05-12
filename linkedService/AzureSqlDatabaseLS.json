@@ -1,0 +1,14 @@
+{
+	"name": "AzureSqlDatabaseLS",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "raj.database.windows.net",
+			"database": "raj_db",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorage2sqldb",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://accentsa.dfs.core.windows.net/"
+		}
+	}
+}
